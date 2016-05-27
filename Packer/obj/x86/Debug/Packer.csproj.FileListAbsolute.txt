@@ -1,0 +1,31 @@
+C:\Users\Kot\AppData\Local\Temporary Projects\Packer\bin\Debug\Packer.exe
+C:\Users\Kot\AppData\Local\Temporary Projects\Packer\bin\Debug\Packer.pdb
+C:\Users\Kot\AppData\Local\Temporary Projects\Packer\obj\x86\Debug\Packer.Form1.resources
+C:\Users\Kot\AppData\Local\Temporary Projects\Packer\obj\x86\Debug\Packer.Properties.Resources.resources
+C:\Users\Kot\AppData\Local\Temporary Projects\Packer\obj\x86\Debug\Packer.csproj.GenerateResource.Cache
+C:\Users\Kot\AppData\Local\Temporary Projects\Packer\obj\x86\Debug\Packer.exe
+C:\Users\Kot\AppData\Local\Temporary Projects\Packer\obj\x86\Debug\Packer.pdb
+C:\Users\Kot\Desktop\Packer\Packer\obj\x86\Debug\Packer.exe
+C:\Users\Kot\Desktop\Packer\Packer\obj\x86\Debug\Packer.pdb
+C:\Users\Kot\Desktop\Packer\Packer\bin\Debug\Packer.exe
+C:\Users\Kot\Desktop\Packer\Packer\bin\Debug\Packer.pdb
+C:\Users\Kot\Desktop\Packer\Packer\obj\x86\Debug\Packer.Form1.resources
+C:\Users\Kot\Desktop\Packer\Packer\obj\x86\Debug\Packer.Properties.Resources.resources
+C:\Users\Kot\Desktop\Packer\Packer\obj\x86\Debug\Packer.csproj.GenerateResource.Cache
+C:\Users\Kot\Desktop\Packer\Packer\obj\x86\Debug\Packer.csprojResolveAssemblyReference.cache
+C:\Users\Kot\Desktop\Packer\Packer\bin\Debug\DiscUtils.Common.dll
+C:\Users\Kot\Desktop\Packer\Packer\bin\Debug\DiscUtils.dll
+C:\Users\Kot\Desktop\Packer\Packer\bin\Debug\ISOCreate.exe
+C:\Users\Kot\Desktop\Packer\Packer\bin\Debug\ISOCreate.pdb
+C:\Users\Kot\Desktop\Packer\Packer\bin\Debug\DiscUtils.pdb
+C:\Users\Kot\Desktop\Packer\Packer\bin\Debug\DiscUtils.Common.pdb
+C:\Users\Jacek\Desktop\Packer\Packer\obj\x86\Debug\Packer.exe
+C:\Users\Jacek\Desktop\Packer\Packer\obj\x86\Debug\Packer.pdb
+C:\Users\Jacek\Desktop\Packer\Packer\obj\x86\Debug\Packer.csprojResolveAssemblyReference.cache
+C:\Users\Jacek\Desktop\Packer\Packer\obj\x86\Debug\Packer.Form1.resources
+C:\Users\Jacek\Desktop\Packer\Packer\obj\x86\Debug\Packer.Properties.Resources.resources
+C:\Users\Jacek\Desktop\Packer\Packer\obj\x86\Debug\Packer.csproj.GenerateResource.Cache
+C:\Users\Jacek\Desktop\Packer\Packer\bin\Debug\Packer.exe
+C:\Users\Jacek\Desktop\Packer\Packer\bin\Debug\Packer.pdb
+C:\Users\Jacek\Desktop\Packer\Packer\bin\Debug\DiscUtils.pdb
+C:\Users\Jacek\Desktop\Packer\Packer\bin\Debug\DiscUtils.Common.pdb
