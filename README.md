@@ -31,4 +31,4 @@ Steps:
 ### Known issues ###
 The wide-range compatibility with various versions of 3rd party software is not yet provided (coming in next version). Also, automatically generating an iso file will be fixed in next version.
 ### Copyryghts ###
-Using application is free, however, selling it or it's parts is strictly prohibited. Modifying it's code or it's fragments to use in any way should be discussed with the Author.
+Using application is free, however, selling it or its parts is strictly prohibited. Modifying its code or it's fragments to use in any way should be discussed with the Author.
