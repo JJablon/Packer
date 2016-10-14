@@ -29,3 +29,12 @@ C:\Users\Jacek\Desktop\Packer\Packer\bin\Debug\Packer.exe
 C:\Users\Jacek\Desktop\Packer\Packer\bin\Debug\Packer.pdb
 C:\Users\Jacek\Desktop\Packer\Packer\bin\Debug\DiscUtils.pdb
 C:\Users\Jacek\Desktop\Packer\Packer\bin\Debug\DiscUtils.Common.pdb
+C:\Users\lenovo\Desktop\packer\packer\Packer\obj\x86\Debug\Packer.exe
+C:\Users\lenovo\Desktop\packer\packer\Packer\bin\Debug\Packer.exe
+C:\Users\lenovo\Desktop\packer\packer\Packer\bin\Debug\Packer.pdb
+C:\Users\lenovo\Desktop\packer\packer\Packer\obj\x86\Debug\Packer.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\packer\packer\Packer\obj\x86\Debug\Packer.Form1.resources
+C:\Users\lenovo\Desktop\packer\packer\Packer\obj\x86\Debug\Packer.Properties.Resources.resources
+C:\Users\lenovo\Desktop\packer\packer\Packer\obj\x86\Debug\Packer.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\packer\packer\Packer\obj\x86\Debug\Packer.pdb
+C:\Users\lenovo\Desktop\packer\packer\Packer\bin\Debug\Packer.exe.config
