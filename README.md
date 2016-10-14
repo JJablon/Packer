@@ -14,21 +14,31 @@ The program uses command-line to instruct win-rar where files are located, and t
 Steps:
 - user provides the path to files by a convenient windows forms GUI
 - program analyses the files and divides it to fit the size of a disc best
-- with a single click it generates a rar archive with user-set password and strong encryption
+- with a single click it generates a zip archive with user-set password and strong encryption
 
 
 ### Main features ###
-* possibility of strong encryption of each part of files (provided by winrar)
+
 * fully-automated behavior - just choose a directory and watch it divide into pieces!
 * generating logs with lists of files - you always know where to find your file
-* multithreading - depends on a system - program creates a number of simultaneous winrar processes, so the system can asssign them to multiple threads and cores, which is working fantastic in reality 
+* multithreading - program creates a number of simultaneous background workers, so the system can asssign them to multiple threads and cores, which works fantastic in reality 
+
 
 ### How do I get set up? ###
 
 * update Windows and necessary .NET libraries
-* install 3rd party software (WinRar and Nero Suite) in proper directories 
+* note that the program is compiled using .NET 4.0
+* please note that splitting large portions of files can result in significant performance boost (not less than 8GB for Intel i3, 16GB for i5,  32GB for i7 is required to use multithreading)
 
 ### Known issues ###
-The wide-range compatibility with various versions of 3rd party software is not yet provided (coming in next version). Also, automatically generating an iso file will be fixed in next version.
+Please make an issue to let me know about incompatibilities or errors.
+
+### Coming in next version ###
+* possibility of strong encryption (AES 1024) of each part of files (provided by in-built .NET libraries)
+
+### Credits ####
+* Microsoft MSDN resources
+* [https://msdn.microsoft.com/pl-pl/library/system.componentmodel.backgroundworker(v=vs.110).aspx](Link URL)
+* [http://www.codeproject.com/Questions/517141/Howplustopluscompressplusdirectory-2cplusMakeplusR](Link URL)
 ### Copyryghts ###
 Using application is free, however, selling it or its parts is strictly prohibited. Modifying its code or it's fragments to use in any way should be discussed with the Author.
