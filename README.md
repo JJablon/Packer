@@ -1,6 +1,6 @@
 # README #
 
-This readme is a quick introduction to the discrete knapsack problem and it's practical implementation in C# using command-line to perform operations using 3rd party software. This app can be used for both simple backup and gathering unused data with a purpose to use in distant future, so unnecessarily taking up much HDD/SDD storage.
+This readme is a quick introduction to the discrete knapsack problem and it's practical implementation in C# using only in-built .NET mechanisms. This app can be used for both simple backup and gathering unused data with a purpose to use in distant future, so unnecessarily taking up much HDD/SDD storage.
 
 ### Repo contains ###
 * a program in C# that implements simple algorithm solving a knapsack problem by dividing a set of files to fit the DVD disc 
@@ -12,14 +12,14 @@ I didn't happen to find any program to simply divide a group of files, significa
 
 - user provides the path to files by a convenient windows forms GUI
 - program analyses the files and divides it to fit the size of a disc best
-- with a single click it generates a rar archive in desired location
+- with a single click it generates a gzip archive in desired location
 
 
 ### Main features ###
 
 * fully-automated behavior - just choose a directory and watch it divide into pieces!
 * generating logs with lists of files - you always know where to find your file
-* multithreading - program creates a number of simultaneous background workers, so the system can asssign them to multiple threads and cores, which works fantastic in reality 
+* multithreading - program creates a number of simultaneous background workers, so the system can assign them to multiple threads and cores, which works fantastic in reality 
 * user-friendly Graphic Interface
 * intuitive, simple setup 
 
@@ -36,8 +36,8 @@ Please make an issue to let me know about incompatibilities or errors.
 * possibility of strong encryption (AES 1024) of each part of files (provided by in-built .NET libraries)
 
 ### Credits ####
-* Microsoft MSDN resources
+Microsoft MSDN resources:
 * [https://msdn.microsoft.com/pl-pl/library/system.componentmodel.backgroundworker(v=vs.110).aspx](Link URL)
-* [http://www.codeproject.com/Questions/517141/Howplustopluscompressplusdirectory-2cplusMakeplusR](Link URL)
+* [https://msdn.microsoft.com/pl-pl/library/system.io.compression.gzipstream(v=vs.110).aspx](Link URL)
 ### Copyryghts ###
 Using application is free, however, selling it or its parts is strictly prohibited. Modifying its code or it's fragments to use in any way should be discussed with the Author.
