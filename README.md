@@ -8,13 +8,11 @@ This readme is a quick introduction to the discrete knapsack problem and it's pr
 ### History ###
 I didn't happen to find any program to simply divide a group of files, significantly larger than a capacity of popular removable discs (CDs or DVDs), with possibility of accessing single file without the need of unpacking the whole group. That means, that e.g. option in win-rar with splitting into parts is in that case not suitable, as it needs to copy data from all of discs to a local drive, and then unpack the whole collections, even if trying to get a single file.
 
-### How to use ###
+### Steps ###
 
-The program uses command-line to instruct win-rar where files are located, and then creates independent archives with files.
-Steps:
 - user provides the path to files by a convenient windows forms GUI
 - program analyses the files and divides it to fit the size of a disc best
-- with a single click it generates a zip archive with user-set password and strong encryption
+- with a single click it generates a rar archive in desired location
 
 
 ### Main features ###
@@ -22,7 +20,8 @@ Steps:
 * fully-automated behavior - just choose a directory and watch it divide into pieces!
 * generating logs with lists of files - you always know where to find your file
 * multithreading - program creates a number of simultaneous background workers, so the system can asssign them to multiple threads and cores, which works fantastic in reality 
-
+* user-friendly Graphic Interface
+* intuitive, simple setup 
 
 ### How do I get set up? ###
 
