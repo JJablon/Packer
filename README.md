@@ -39,5 +39,6 @@ Please make an issue to let me know about incompatibilities or errors.
 Microsoft MSDN resources:
 * [https://msdn.microsoft.com/pl-pl/library/system.componentmodel.backgroundworker(v=vs.110).aspx](Link URL)
 * [https://msdn.microsoft.com/pl-pl/library/system.io.compression.gzipstream(v=vs.110).aspx](Link URL)
+
 ### Copyryghts ###
 Using application is free, however, selling it or its parts is strictly prohibited. Modifying its code or it's fragments to use in any way should be discussed with the Author.
